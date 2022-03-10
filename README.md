@@ -1,8 +1,10 @@
 # Step tO run project
 
 * git clone https://github.com/abozaidmahmoud/DataProvider.git
+* open terminal
 * cd project-path
-* php -S localhost:8000 -t public
+* Run composer install
+* Run php -S localhost:8000 -t public
 * open postman and call endpoint :: http://localhost:8000/api/v1/transactaions
 ## METHOD:: GET AND this is optional parameters
     - provider = DataProviderX
