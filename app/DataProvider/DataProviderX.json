@@ -1,0 +1,61 @@
+{
+    "DataProviderX" :
+    [
+        {
+            "transactionAmount":200,
+            "Currency":"USD",
+            "senderPhone":"00201234567890",
+            "transactionStatus":1,
+            "transactionDate": "2021-03-29 09:36:11",
+            "transactionIdentification": "d3d29d70-1d25-11e3-8591-034165a3a613"
+        },
+        {
+            "transactionAmount":900,
+            "Currency":"EGY",
+            "senderPhone":"00201234567877",
+            "transactionStatus":2,
+            "transactionDate": "2020-03-29 09:36:11",
+            "transactionIdentification": "d3d29d70-1d25-11e3-8591-034165a3a655"
+        },
+        {
+            "transactionAmount":900,
+            "Currency":"EGY",
+            "senderPhone":"00201234567877",
+            "transactionStatus":2,
+            "transactionDate": "2020-03-29 09:36:11",
+            "transactionIdentification": "d3d29d70-1d25-11e3-8591-034165a3a655"
+        },
+        {
+            "transactionAmount":900,
+            "Currency":"EGY",
+            "senderPhone":"00201234567877",
+            "transactionStatus":2,
+            "transactionDate": "2020-03-29 09:36:11",
+            "transactionIdentification": "d3d29d70-1d25-11e3-8591-034165a3a655"
+        },
+        {
+            "transactionAmount":100,
+            "Currency":"EGY",
+            "senderPhone":"00201234567877",
+            "transactionStatus":3,
+            "transactionDate": "2020-03-29 09:36:11",
+            "transactionIdentification": "d3d29d70-1d25-11e3-8591-034165a3a655"
+        },
+        {
+            "transactionAmount":400,
+            "Currency":"EGY",
+            "senderPhone":"00201234567877",
+            "transactionStatus":1,
+            "transactionDate": "2020-03-29 09:36:11",
+            "transactionIdentification": "d3d29d70-1d25-11e3-8591-034165a3a655"
+        },
+        {
+            "transactionAmount":700,
+            "Currency":"EGY",
+            "senderPhone":"00201234567877",
+            "transactionStatus":2,
+            "transactionDate": "2020-03-29 09:36:11",
+            "transactionIdentification": "d3d29d70-1d25-11e3-8591-034165a3a655"
+        }
+    ]
+}
