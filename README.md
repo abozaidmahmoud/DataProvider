@@ -1,4 +1,4 @@
-# Step tO run project
+# Step to run project
 
 * git clone https://github.com/abozaidmahmoud/DataProvider.git
 * open terminal
